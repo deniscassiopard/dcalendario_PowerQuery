@@ -3,7 +3,7 @@
 // Data: 12/11/2023 23:43:12
 // Descrição: Gera uma tabela de calendário dinâmica para Power BI
 // Versão: 1.0
-// Repositório: https://github.com/deniscassiopard/dcalendario-PowerQuery
+// Repositório: https://github.com/deniscassiopard/dcalendario_PowerQuery
 // Licença: MIT
 // ==========================================
 
